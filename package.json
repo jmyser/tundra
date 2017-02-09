@@ -1,9 +1,9 @@
 {
-    "name": "Tundra Dark",
+    "name": "tundra-dark",
     "title": "Tundra Dark",
     "description": "Feel the chill air blowing",
-    "homepage": "https://github.com/jmyser/tundra",
-    "version": "0.3",
+    "homepage": "https://github.com/jmyser/tundra-dark",
+    "version": "1.0.3",
     "author": "j myser <jmyser@gmail.com> (https://github.com/jmyser)",
     "license": "MIT",
     "theme": {
